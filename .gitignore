@@ -1,11 +1,7 @@
-# Ignore everything in this directory
-*
-# Except this file
-!.gitignore
-
 models/__pycache__
-ckpt/
-val_cv/
-hf_round2_test_beat_500/
-hf_round1_beat_500/
-hf_round2_beat_500/
+ckpt/mixnet_mm_cv/*
+ckpt/mixnet_mm_pretrain/*
+ckpt/mixnet_sm_cv/*
+ckpt/mixnet_sm_pretrain/*
+val_cv/*
+
