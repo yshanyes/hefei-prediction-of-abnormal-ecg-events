@@ -1,3 +1,8 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+
 models/__pycache__
 ckpt/__pycache__
 val_cv/__pycache__
