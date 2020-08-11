@@ -4,8 +4,8 @@
 !.gitignore
 
 models/__pycache__
-ckpt/__pycache__
-val_cv/__pycache__
-hf_round2_test_beat_500/__pycache__
-hf_round1_beat_500/__pycache__
-hf_round2_beat_500/__pycache__
+ckpt/
+val_cv/
+hf_round2_test_beat_500/
+hf_round1_beat_500/
+hf_round2_beat_500/
