@@ -1,1 +1,6 @@
 models/__pycache__
+ckpt/__pycache__
+val_cv/__pycache__
+hf_round2_test_beat_500/__pycache__
+hf_round1_beat_500/__pycache__
+hf_round2_beat_500/__pycache__
